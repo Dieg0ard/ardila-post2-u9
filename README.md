@@ -58,7 +58,7 @@ ISR_KB
 
 **Checkpoint 1:** El programa muestra `Tecla detectada por ISR propio` exactamente 5 veces y termina con `ISR restaurado. Fin del programa.`
 
-![Checkpoint 1](ck1.png)
+![Checkpoint 1](capturas/ck1.png)
 
 ---
 
@@ -82,7 +82,7 @@ MASK_KB
 
 **Checkpoint 2:** Las pulsaciones no producen salida mientras IRQ1 está enmascarado; al finalizar el retardo aparece `IRQ1 restaurado.`
 
-![Checkpoint 2](ck2.png)
+![Checkpoint 2](capturas/ck2.png)
 
 ---
 
@@ -110,7 +110,7 @@ ISR_CHAIN
 
 **Checkpoint 3:** El contador propio registra las pulsaciones y el eco de DOS sigue funcionando con normalidad, demostrando el encadenamiento correcto.
 
-![Checkpoint 3](ck3.png)
+![Checkpoint 3](capturas/ck3.png)
 
 ---
 
